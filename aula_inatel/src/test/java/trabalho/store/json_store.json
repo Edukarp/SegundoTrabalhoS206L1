@@ -1,0 +1,11 @@
+{
+    "title": "Produto teste",
+    "price": 37.90,
+    "description": "descrição teste",
+    "category": "categoria teste",
+    "image": "",
+    "rating": {
+        "rate": 3.2,
+        "count": 100
+    }
+}
